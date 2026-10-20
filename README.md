@@ -2,6 +2,9 @@
 
 **Potato Hack** is a trainer for World of Warcraft 3.3.5a (build 12340).
 
+<img width="783" height="781" alt="image" src="https://github.com/user-attachments/assets/82ce55a4-c403-434f-a738-7bf9aed5a205" />
+
+
 ## Usage
 
 1. Launch WoW 3.3.5a (build 12340).
